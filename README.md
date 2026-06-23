@@ -44,7 +44,7 @@ PMDone helps users make sense of how they're feeling before deciding what to do 
 
 ## Why I built this
 
-I wanted to explore what it actually looks like to use Claude as infrastructure rather than a chatbot — where the model is doing real reasoning work inside a product, not just answering questions. Healthcare navigation felt like a good test case: the stakes are real, the information is messy, and getting the routing right matters.
+I wanted to explore what it actually looks like to use Claude as infrastructure rather than a chatbot, where the model is doing real ACTUAL reasoning work inside a product, not just answering questions. Healthcare navigation felt like a good test case: the stakes are real, the information is messy, and getting the routing right matters.
 
 It's also a personal interest area. I study CS and Statistics at Queen's and have a background in pharmacology-adjacent research, so health tech is somewhere I want to spend more time.
 
@@ -64,4 +64,4 @@ It's also a personal interest area. I study CS and Statistics at Queen's and hav
 
 ## Contact
 
-Shahnoor — [your email] · [LinkedIn if you want]
+Shahnoor, [shahnoorxs@gmail.com] · [www.linkedin.com/in/shahnoor-sarfraz-924asa924]
