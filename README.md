@@ -2,9 +2,9 @@
 
 **An LLM-powered symptom navigator built with the Anthropic API.**
 
-PMDone helps users make sense of how they're feeling before deciding what to do next — whether that's rest, a pharmacy visit, or booking a doctor. Instead of a search engine returning a wall of possibilities, PMDone routes you based on your current state and lets Claude reason through your symptoms conversationally.
+PMDone helps users make sense of how they're feeling before deciding what to do next, whether that is rest, a pharmacy visit, or booking a doctors appointment. Instead of a search engine returning a wall of possibilities, PMDone routes you based on your current state and lets Claude reason through your symptoms conversationally.
 
-> 🚧 **Active development** — core routing and UI are functional; backend integrations and full conversation flow are in progress.
+> 🚧 **Active development**, core routing and UI are functional; backend integrations and full conversation flow are in progress.
 
 ---
 
